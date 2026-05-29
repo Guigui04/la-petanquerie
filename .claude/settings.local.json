@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vite *)",
+      "Bash(npm run *)",
+      "Bash(git rm *)",
+      "Bash(git add *)",
+      "Bash(git commit -q -m 'feat: refonte UI light/bleu+jaune, géoloc, réservations, hub Jouer *)",
+      "Bash(git push *)",
+      "Bash(git checkout *)"
+    ]
+  }
+}
